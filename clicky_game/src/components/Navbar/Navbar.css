@@ -1,5 +1,6 @@
 .navbar {
-    background: #006064;
+    /* background: #006064; */
+    background: rgb(26, 23, 100);
     min-height: 70px;
     font-size: 18px;
     padding: 20px 0;

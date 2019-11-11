@@ -6,7 +6,7 @@
 body {
   font-family: OverseerFont;
   margin: 0;
-  
+  background-color: #000000;
   /* background-image: url("./images/pipboy-bg.png"); */
   background-repeat: no-repeat;
   background-size: 70%;
